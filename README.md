@@ -14,7 +14,8 @@ Github仓库-顶部Action标签
 回到solution文件夹即可查看更新后的内容
 
 # Git工作流
-'''bash
+
+'''
 git add.
 git commit -m "具体信息"
 git push
