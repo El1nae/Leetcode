@@ -15,10 +15,8 @@ Github仓库-顶部Action标签
 
 # Git工作流
 
-'''
+```
 git add.
-
 git commit -m "具体信息"
-
 git push
-'''
+```
